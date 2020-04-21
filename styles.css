@@ -1,0 +1,29 @@
+body{
+
+  background-color: #ecfbfc   ;
+
+}
+
+table:hover{
+  background-color: #ffebd9;
+}
+
+ul:hover{
+  background-color: #ffebd9;
+}
+
+hr{
+  border-style: dotted none none;
+  width:4%;
+  heigh:16px;
+  border-width: 7px;
+  color: grey;
+}
+
+h1{
+  color: #235952;
+}
+
+h3{
+  color: #235952;
+}
